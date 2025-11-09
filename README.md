@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo_light.png" alt="Analogous logo" width="200"/>
+</p>
+
 # [Analogous](https://analogous.com.au)
 
 
