@@ -1,10 +1,11 @@
-# Analogous
+# [Analogous](https://analogous.com.au)
+
 
 **Analogous** is a modern applied economics and analytics initiative.  
 We develop models, datasets and methods that connect economic theory with real-world decision-making.
 
 ## Focus
-Our work spans empirical economics, modelling and data science — integrating traditional economic frameworks with modern computational tools.  
+Our work spans empirical economics, modelling and data science - integrating traditional economic frameworks with modern computational tools.  
 Key areas include input–output and cost–benefit analysis, environmental valuation, and consumer behaviour analytics.
 
 ## Approach
